@@ -1,0 +1,19 @@
+{
+  "rfc": "RFC",
+  "rom": "ROM",
+  "rpc": "RPC",
+  "rss": "RSS",
+  "rss3": "RSS3",
+  "raii": "RAII",
+  "react native": "React Native",
+  "redhat": "RedHat",
+  "redisearch": "RediSearch",
+  "redisjson": "RedisJSON",
+  "rescript": "ReScript",
+  "restful": "RESTful",
+  "rethinkdb": "RethinkDB",
+  "rsshub": "RSSHub",
+  "rust": "Rust",
+  "rxdb": "RxDB",
+  "rxjs": "RxJS"
+}

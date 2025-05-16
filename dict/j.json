@@ -1,0 +1,19 @@
+{
+  "jdbc": "JDBC",
+  "jdk": "JDK",
+  "jit": "JIT",
+  "jpeg": "JPEG",
+  "jpg": "JPG",
+  "jre": "JRE",
+  "jsf": "JSF",
+  "json": "JSON",
+  "jsonp": "JSONP",
+  "jsp": "JSP",
+  "jwt": "JWT",
+  "jsdelivr": "jsDelivr",
+  "javascript": "JavaScript",
+  "jetbrains": "JetBrains",
+  "jquery": "jQuery",
+  "jsdoc": "JSDoc",
+  "jupyterlab": "JupyterLab"
+}

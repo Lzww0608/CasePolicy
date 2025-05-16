@@ -1,0 +1,16 @@
+{
+  "es6": "ES6",
+  "esm": "ESM",
+  "esim": "eSIM",
+  "echarts": "ECharts",
+  "ecmascript": "ECMAScript",
+  "edgedb": "EdgeDB",
+  "eggjs": "Egg.js",
+  "elasticsearch": "Elasticsearch",
+  "element plus": "Element Plus",
+  "elementui": "ElementUI",
+  "esbuild": "esbuild",
+  "eslint": "ESLint",
+  "esxi": "ESXi",
+  "etcd": "etcd"
+}

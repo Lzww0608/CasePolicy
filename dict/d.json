@@ -1,0 +1,23 @@
+{
+  "db2": "DB2",
+  "dns": "DNS",
+  "dom": "DOM",
+  "dos": "DOS",
+  "daas": "DaaS",
+  "ddos": "DDoS",
+  "devops": "DevOps",
+  "devtools": "DevTools",
+  "dapr": "Dapr",
+  "datadog": "Datadog",
+  "datagrip": "DataGrip",
+  "dbase": "dBase",
+  "definitelytyped": "DefinitelyTyped",
+  "denodeploy": "DenoDeploy",
+  "digital ocean": "DigitalOcean",
+  "digitalocean": "DigitalOcean",
+  "dingtalk": "DingTalk",
+  "directx": "DirectX",
+  "django": "Django",
+  "duckduckgo": "DuckDuckGo",
+  "dynamodb": "DynamoDB"
+}
